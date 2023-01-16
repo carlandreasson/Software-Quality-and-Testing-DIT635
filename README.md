@@ -1,2 +1,6 @@
 # Software-Quality-and-Testing-DIT635
 The course is a part of the Software Engineering and Management program at Gothenburg University and Chalmers University of Technology.
+
+The course introduces the students to the concepts and best practices of quality assurance and testing in software engineering. The course has two general themes: (1) the role of quality assurance in software development; (2) the role of testing in software quality assurance.
+
+The course first introduces the notion of software quality. The students are made acquainted with quality and quality assurance. They learn methods and techniques to assure quality of both the end product (a system or application), and for the software process itself. The role of quality assurance is described for software, for a software process, and for a software project. It is explained how these are related in an organization. The course then covers testing tools, techniques and methods that can be used to assess the quality and correctness of software systems. The course brings understanding on how these methods, techniques and tools can be used in a software development project to increase the software quality. An overview of model-based verification techniques is also presented. 
